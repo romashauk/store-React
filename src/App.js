@@ -2,7 +2,6 @@ import React, { Component, Fragment } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-
 import Navbar from './Components/Navbar';
 import ProductList from './Components/ProductList';
 import Details from './Components/Details';

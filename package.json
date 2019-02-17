@@ -1,7 +1,6 @@
 {
   "name": "setup-files",
   "version": "0.1.0",
-  "homepage": "http://romashauk.github.io/online-store-react",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",

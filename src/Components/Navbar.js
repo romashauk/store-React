@@ -44,6 +44,9 @@ export default class Navbar extends Component {
 }
 
 const NavWrapper = styled.nav`
+  position: sticky;
+  top: 0;
+  z-index: 50;
   background: var(--mainBlue) !important;
   .nav-link {
     color: var(--mainWhite) !important;
